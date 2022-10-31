@@ -41,13 +41,13 @@ Then, run:
 
 ````Text needs to be added````
 
-👉 For more information on how to contribute, please read through our [CONTRIBUTING.md]()!
+👉 For more information on how to contribute, please read through my [CONTRIBUTING.md]()!
 
 ###  Want to Contribute?
 
 Check out our Issues with the `good first issue` and `help wanted` label. We suggest also looking at the closed ones to get a sense of what your issue and/or PR should look like.
 
-👉 For more information on how to contribute, please read through our [CONTRIBUTING.md]()!
+👉 For more information on how to contribute, please read through my [CONTRIBUTING.md]()!
 
 ## Code of Conduct
 
